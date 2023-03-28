@@ -1,8 +1,7 @@
-# toraaglobal-k8-lab
-The project involves creating a Kubernetes cluster for a home lab experiment using Raspberry Pi devices.
+## toraaglobal-k8-lab
 ***
 
-Purpose
+**Building a Highly Available Kubernetes Cluster with Raspberry Pi Devices for Production Applications and Data Pipelines.**
 
 In this project, the focus is on conducting home lab experimentation with Raspberry Pi devices, but with the intention of deploying the resulting Kubernetes cluster in a highly available mode that can support production applications. The cluster will be configured to run a data pipeline for Extract, Transform, Load (ETL) operations, and enable model deployment. It will also support web applications and APIs for inferencing purposes.
 
